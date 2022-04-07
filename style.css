@@ -1,0 +1,116 @@
+body { 
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-color: black;
+    
+}
+
+.homebox {
+    width: 1280px;
+    height: 720px;
+    border-radius: 12px;
+    background-color: #121214;
+    margin: 0px 0px 0px 12px;
+}
+
+h1 {
+    width: 229px;
+    height: 68px;
+    margin: 42px 534px 73px 465px;
+}
+
+h2 {
+    width: 400px;
+    height: 42px;
+    color: white;
+    margin: 0px 482px 61px 448px;
+    font-size: 32px;
+}
+
+.usuarios-box {
+    display: flex;
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    border-radius: 18px;
+   
+}
+
+.avatares {
+  
+    width: 160px;
+    height: 160px;
+    border-radius: 8px;
+
+
+}
+
+.avatares:hover{
+    transform: scale(120%);
+    color: white;
+}
+
+
+
+.usuarios {
+    box-sizing: border-box;
+
+    margin: 0px 26px 0px 0px ;
+    min-width: 160px;
+    max-width: 160px;
+    height: 160px;
+    background-color: solid #1E1E20;
+    border-radius: 12px;
+    
+
+}
+
+
+.cardtest {
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+    background-color: solid #1E1E20;
+    border-radius: 12px;
+
+}
+
+.usuarios:hover{
+    color: white;
+}
+
+.cardtest:hover {
+    border: solid 2px white;
+}
+
+.usuarios-box {
+   
+    font-size: 14px;
+    color:#9C9C9C;
+
+}
+
+
+.material-icons-sharp{
+    margin-top: 40px;
+    font-size: 80px;
+    border: #121214;
+    border-radius: 12px;
+    
+    
+}
+
+
+.gerenciar-perfis {
+    text-align: center;
+    border: solid 2px white;
+    border-radius: 8px;
+    margin: 136px 546px 88px 528px;
+    width: 206px;
+    height: 50px;
+    color: white;
+
+}
+.gerenciar-perfis:hover {
+    background-color: white;
+    color: black;
+}
