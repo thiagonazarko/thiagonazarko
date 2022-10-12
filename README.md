@@ -1,5 +1,7 @@
 ### Hello there! Eu sou Thiago Nazarko.
 
+Sou formado em Desenvolvimento Front-End pela Kenzie Academy Brasil, onde através de um curso de mais de 1.000 horas pude desenvolver as Hard/Soft Skills que são requisitadas pelo mercado de trabalho.
+
 - 🔭 Hoje trabalho com Front-end.
 - 🌱 Estudando TypeScript e back-end.
 - ⚡ Fun fact: Além de escrever códigos, eu também escrevo livros. 🤣
